@@ -1,0 +1,9 @@
+[package]
+
+name = "rust-learn"
+version = "0.0.1"
+authors = [ "Tiago Nobrega <tigarmo@gmail.com>" ]
+
+[[bin]]
+
+name = "rust-learn"
